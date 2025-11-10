@@ -1,0 +1,14 @@
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\bin\Debug\net8.0\Problems_Practice.exe
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\bin\Debug\net8.0\Problems_Practice.deps.json
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\bin\Debug\net8.0\Problems_Practice.runtimeconfig.json
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\bin\Debug\net8.0\Problems_Practice.dll
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\bin\Debug\net8.0\Problems_Practice.pdb
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.AssemblyInfoInputs.cache
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.AssemblyInfo.cs
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.csproj.CoreCompileInputs.cache
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.dll
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\refint\Problems_Practice.dll
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.pdb
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\Problems_Practice.genruntimeconfig.cache
+C:\Users\SairamGanisetti\source\repos\Problems_Practice\Problems_Practice\obj\Debug\net8.0\ref\Problems_Practice.dll

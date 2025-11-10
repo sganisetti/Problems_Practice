@@ -1,0 +1,53 @@
+﻿// See https://aka.ms/new-console-template for more information
+//Console.WriteLine("Hello, World!");
+
+using Problems_Practice.Arrays;
+using Problems_Practice.Dictionarys;
+using Problems_Practice.Strings;
+
+//int[] nums = { 1, 0, 3, 0, 2 };
+//int [] result = MoveZerosToEnd.Move_Zeros_To_End(nums);
+//Console.WriteLine(string.Join(",",result));
+//int[] nums1 = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 3, 4, 4, 5 };
+//int  result1 = RemoveDuplicatesFromSortedArray.Remove_Duplicates_From_Sorted_Array(nums1);
+//Console.WriteLine(result1);
+//int[] nums2 = { 1, 2, 3, 4, 5, 6, 7 };
+//int k = 3;
+//int [] result = RotateArray.rotate(nums2,k);
+//Console.WriteLine(string.Join(",",result));
+
+//int[] nums1 = { 1, 2, 3, 0, 0, 0 };
+//int[] nums2 = { 2, 5, 6 };
+//int m = 3;
+//int n = 3;
+//int[] result  = MergeSortedArray.MergesortedArray(nums1, nums2,m,n);
+//Console.WriteLine(string.Join(",",result));
+//int[] nums3 = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+//int result = MaxSubArray.maxSubArray(nums3);
+//Console.WriteLine(result);
+//int[] nums2 = { 1, 2, 3, 4, };
+//int [] result = ProductofArrayExceptSelf.productofArrayExceptItSelf(nums2);
+//Console.WriteLine(string.Join(",",result));
+//int[] nums = { 0, 1, 3 };
+//int result = MissingNumber.MissingNumberInArray(nums);
+//Console.WriteLine(result);
+//Dict.Dictionary();
+//string str = "abcabcbb";
+//int result = LongestSubString.Longest_SubString(str);
+//Console.WriteLine(result);
+//string input1 = "([{}])";
+//string input2 = "([)]";
+//bool result = ValidParenthesis.IsValid(input2);
+//Console.WriteLine(result);
+//string haystack = "hello";
+//string needle = "ll";
+//int result = SearchSubString.Search_SubString(haystack, needle);
+//Console.WriteLine(result);
+//string s = "ADOBECODEBANC";
+//string t = "ABC";
+//string result = MinimumWindowSubstring.MinWindow(s, t);
+//Console.WriteLine(result);
+int[] nums = { 1, 2, 3, 7, 5 };
+int target = 12;
+int [] result = FindSubArrayWithTarget_Sum.FindSubarrayWithTargetSum2(nums,target);
+Console.WriteLine(string.Join("," , result));
